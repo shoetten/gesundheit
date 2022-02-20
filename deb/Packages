@@ -1,0 +1,48 @@
+Package: gesundheit
+Architecture: amd64
+Version: 0.0.18
+Maintainer: ushi <ushi@honkgong.info>
+Filename: ./gesundheit_0.0.18_amd64.deb
+Size: 3932172
+MD5sum: 883bd9e5da93b418efb27b57d2be777f
+SHA1: dd6939977c91e6dd3572f0d3f40f5448bd1a9695
+SHA256: 11c1934be843c31c771f7371ea345ee7424e32b7e766beb98739fbc9f9c493bb
+SHA512: 2a31b42891caf2419789054ae47d5e0e2f76e6c79faf61519751cf5da7930c9cf36b526cbde6ef204e72545eb228e3123d464353177f30c44fe8e0b092cd0d76
+Description: Get notifications about unexpected system state from your local Gesundheitsdienst.
+
+Package: gesundheit
+Architecture: arm64
+Version: 0.0.18
+Maintainer: ushi <ushi@honkgong.info>
+Filename: ./gesundheit_0.0.18_arm64.deb
+Size: 3492540
+MD5sum: 11f78e56b648772ba847f71a2d8ffe75
+SHA1: 8ade5dba6a7b4e092d6db0d8567462bccaeec7e3
+SHA256: 29ad383d43346e5d79ee8245aa4f09a7d33e5db0f0e1c181a9e186e6e8be4de5
+SHA512: b816ab721a774833eb4688d798df6913b85f55aa041f7df726b14e9528187c2a2b177b353241c8afb0994acd18120caf9c1700f6a1a9dd516d586d5cdeb4e51f
+Description: Get notifications about unexpected system state from your local Gesundheitsdienst.
+
+Package: gesundheit
+Architecture: armhf
+Version: 0.0.18
+Maintainer: ushi <ushi@honkgong.info>
+Filename: ./gesundheit_0.0.18_armhf.deb
+Size: 3431592
+MD5sum: 3c219800357fd6f465a5da8c37168f1a
+SHA1: 033fe5a3c9a8274ffe3d4c1a362115e72870f956
+SHA256: 605dc5413458cc7c0995b18a04b194d2ab99fa44e0275a4a807e4044850df574
+SHA512: 97e529c9875410f2991dbbc70ea29953b4d58ab456eaddc17945de05a4d4af63d9618263d7a5c1d1dc760592e5b341dba281af2e929c1fd392522004f2641ec6
+Description: Get notifications about unexpected system state from your local Gesundheitsdienst.
+
+Package: gesundheit
+Architecture: i386
+Version: 0.0.18
+Maintainer: ushi <ushi@honkgong.info>
+Filename: ./gesundheit_0.0.18_i386.deb
+Size: 3706156
+MD5sum: ae6e15b7f38dca605241aefc8fadfbd2
+SHA1: 038fc856294201e9560febf0a7234ad2bf6f6a64
+SHA256: 6cadf3c18570a091b3367ebe271a5978301d0e9913df9a26434c5fb7448d109d
+SHA512: c78b773a6d259fae80ccfd3c01e2b67b3150566b3b0ddd394ef889e4f45d2371a0d6a82fa1f65cbb23d06669f9a9b52e3899e6337038f65a6d61395191515488
+Description: Get notifications about unexpected system state from your local Gesundheitsdienst.
+
