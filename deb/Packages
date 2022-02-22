@@ -1,48 +1,48 @@
 Package: gesundheit
 Architecture: amd64
-Version: 0.0.18
+Version: 0.0.19
 Maintainer: ushi <ushi@honkgong.info>
-Filename: ./gesundheit_0.0.18_amd64.deb
-Size: 3932172
-MD5sum: 883bd9e5da93b418efb27b57d2be777f
-SHA1: dd6939977c91e6dd3572f0d3f40f5448bd1a9695
-SHA256: 11c1934be843c31c771f7371ea345ee7424e32b7e766beb98739fbc9f9c493bb
-SHA512: 2a31b42891caf2419789054ae47d5e0e2f76e6c79faf61519751cf5da7930c9cf36b526cbde6ef204e72545eb228e3123d464353177f30c44fe8e0b092cd0d76
+Filename: ./gesundheit_0.0.19_amd64.deb
+Size: 3934560
+MD5sum: 1af2250172c771ef76b1405a2cf4c801
+SHA1: 02c30cc63f83f7a7d6ba093a4a99df97c017bdfa
+SHA256: 8d9105ac172c1b8c438d5f4054f1918a9e555e43db973ca104484432716e36da
+SHA512: 9f2331c1fadba19007cd7721c7a58eae8f7fd9eb93dde94cc5059ce07299b880d130c4062e2937d8d8ec1b2805350e958275caa553c60a13a0994d14ebef8897
 Description: Get notifications about unexpected system state from your local Gesundheitsdienst.
 
 Package: gesundheit
 Architecture: arm64
-Version: 0.0.18
+Version: 0.0.19
 Maintainer: ushi <ushi@honkgong.info>
-Filename: ./gesundheit_0.0.18_arm64.deb
-Size: 3492540
-MD5sum: 11f78e56b648772ba847f71a2d8ffe75
-SHA1: 8ade5dba6a7b4e092d6db0d8567462bccaeec7e3
-SHA256: 29ad383d43346e5d79ee8245aa4f09a7d33e5db0f0e1c181a9e186e6e8be4de5
-SHA512: b816ab721a774833eb4688d798df6913b85f55aa041f7df726b14e9528187c2a2b177b353241c8afb0994acd18120caf9c1700f6a1a9dd516d586d5cdeb4e51f
+Filename: ./gesundheit_0.0.19_arm64.deb
+Size: 3494788
+MD5sum: 508590ffaf8d406d0833b35573c4d97e
+SHA1: 3def7a620136427642d97e7963d1defe5e4b775e
+SHA256: abeab855ab7b30631e51d5cc4c838d727ba9ee79592d3cd4c46322e5f6416cf3
+SHA512: dfc316ad766f2b98d0ef4fcbfc5b223b91d77f1026987c152f8ce26fd22c5513e745089d7efffd20a01ce1a932c73e23d97a2d7d411f8f5abda8f24acd2fe36d
 Description: Get notifications about unexpected system state from your local Gesundheitsdienst.
 
 Package: gesundheit
 Architecture: armhf
-Version: 0.0.18
+Version: 0.0.19
 Maintainer: ushi <ushi@honkgong.info>
-Filename: ./gesundheit_0.0.18_armhf.deb
-Size: 3431592
-MD5sum: 3c219800357fd6f465a5da8c37168f1a
-SHA1: 033fe5a3c9a8274ffe3d4c1a362115e72870f956
-SHA256: 605dc5413458cc7c0995b18a04b194d2ab99fa44e0275a4a807e4044850df574
-SHA512: 97e529c9875410f2991dbbc70ea29953b4d58ab456eaddc17945de05a4d4af63d9618263d7a5c1d1dc760592e5b341dba281af2e929c1fd392522004f2641ec6
+Filename: ./gesundheit_0.0.19_armhf.deb
+Size: 3432856
+MD5sum: 4e31d6c19c50dd687323c717d9c734e1
+SHA1: 7bc34c389465cd79b701de8fd2b93b63ea5bbb1c
+SHA256: 99007d13fb70a203632572fb497f7dc87a16eea0f630be9bbee3e40e0a94158d
+SHA512: a4dc688af943a82c7e93f90d39ede9ad18f4d8cdb6ca4e5bb2a1cf3a771e4b429beb29172ec6af80493596f3dd46cdb6859810873c6bf51e4c4828cf666986bd
 Description: Get notifications about unexpected system state from your local Gesundheitsdienst.
 
 Package: gesundheit
 Architecture: i386
-Version: 0.0.18
+Version: 0.0.19
 Maintainer: ushi <ushi@honkgong.info>
-Filename: ./gesundheit_0.0.18_i386.deb
-Size: 3706156
-MD5sum: ae6e15b7f38dca605241aefc8fadfbd2
-SHA1: 038fc856294201e9560febf0a7234ad2bf6f6a64
-SHA256: 6cadf3c18570a091b3367ebe271a5978301d0e9913df9a26434c5fb7448d109d
-SHA512: c78b773a6d259fae80ccfd3c01e2b67b3150566b3b0ddd394ef889e4f45d2371a0d6a82fa1f65cbb23d06669f9a9b52e3899e6337038f65a6d61395191515488
+Filename: ./gesundheit_0.0.19_i386.deb
+Size: 3706412
+MD5sum: daad38b7227f747aac72a78be0881c7a
+SHA1: 35e789644404b3ee99e4c842e68292391818e679
+SHA256: 26b4a68344929ba6be5315799e5dd4313ead9202aed65bd6265eeb5bc51e6c11
+SHA512: 124e6ef4bbb460afee36022c82615878874cc65f9cfcb86af1f7980f5ad324d6df5eb6bf0394f72f76142267e8b7f35a1cbe240c7318a1bd0d93a1cf407baeab
 Description: Get notifications about unexpected system state from your local Gesundheitsdienst.
 
