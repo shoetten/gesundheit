@@ -1,6 +1,6 @@
 {
   "name": "gesundheit",
-  "version": "0.0.33",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "dev": "vite",
