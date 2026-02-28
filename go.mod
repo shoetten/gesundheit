@@ -1,6 +1,6 @@
 module github.com/ushis/gesundheit
 
-go 1.18
+go 1.24.0
 
 require (
 	github.com/BurntSushi/toml v1.3.2
@@ -10,7 +10,7 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/rabbitmq/amqp091-go v1.9.0
 	github.com/tidwall/gjson v1.17.1
-	golang.org/x/crypto v0.31.0
+	golang.org/x/crypto v0.45.0
 )
 
 require (
@@ -22,5 +22,5 @@ require (
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
 	golang.org/x/exp v0.0.0-20230713183714-613f0c0eb8a1 // indirect
-	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
 )
