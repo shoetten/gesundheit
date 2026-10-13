@@ -350,6 +350,31 @@ gesundheit -conf /etc/gesundheit/gesundheit.toml
       <td></td>
     </tr>
     <tr>
+      <td rowspan="4"><strong>ntfy</strong></td>
+      <td rowspan="4">
+        Send check results to <a href="https://docs.ntfy.sh/">ntfy</a>
+      </td>
+      <td>Url</td>
+      <td>
+        Url of the ntfy server,
+        e.g. <code>"https://ntfy.sh"</code>
+      </td>
+    </tr>
+    <tr>
+      <td>Topic</td>
+      <td>
+        ntfy topic name, e.g. <code>"gesundheit"</code>
+      </td>
+    </tr>
+    <tr>
+      <td>Token</td>
+      <td>Optional ntfy access token</td>
+    </tr>
+    <tr>
+      <td>Priority</td>
+      <td>Priority of every ntfy message (1-5, default 3)</td>
+    </tr>
+    <tr>
       <td rowspan="3"><strong>remote</strong></td>
       <td rowspan="3">Send check results to a remote gesundheit node</td>
       <td>Address</td>
